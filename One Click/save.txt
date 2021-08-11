@@ -1,0 +1,2 @@
+/Applications/
+,/System/Applications/Chess.app,/System/Applications/Calculator.app,/Applications/WhatsApp.app,/System/Applications/Mail.app,
